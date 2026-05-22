@@ -56,3 +56,8 @@ The main objective of this project is to strengthen SQL skills by performing rea
 
 
 “Performed end-to-end SQL database creation and analysis on an Online Book Store dataset using PostgreSQL and CSV files.”
+
+👨‍💻 Author
+
+Pratya Biswas
+Aspiring Data Analyst | Business Analytics Enthusiast
